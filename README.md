@@ -12,7 +12,7 @@ This challenge implements a shopping basket system with product offers and deliv
 - `product.rb` - Product class
 - `offers/` - Offer classes
 - `product_details.json` - Product data
-- `test.rb` - Test runner (see above) 
+- `test.rb` - Test runner (see below) 
 
 ## How to Test
 
